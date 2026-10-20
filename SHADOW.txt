@@ -1,0 +1,5 @@
+upstream_repo: hardware/lineage/interfaces
+framework_extractive: true
+package: org.blisslabs.ag.ext.hardware.lineage.interfaces.framework
+source: https://github.com/LineageOS/android_hardware_lineage_interfaces
+build_type: extractive_apex
